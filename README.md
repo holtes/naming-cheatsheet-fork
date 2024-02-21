@@ -21,7 +21,11 @@
 
 ---
 
-Nam hard. This sheet attempts to make it easier.
+<<<<<<< HEAD
+Naming is hard. This sheet attempts to make it easier.
+=======
+Naming is hard. This sheet attempts to make it easier.
+>>>>>>> branch1
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
